@@ -18,9 +18,10 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
+                                      <entry key="assetType" value="IMAGE" />
                                       <entry key="iconShape" value="NONE" />
-                                      <entry key="imageAsset" value="C:\Users\dm2\Downloads\lens.png" />
-                                      <entry key="outputName" value="ic_android" />
+                                      <entry key="imageAsset" value="C:\Users\dm2\Downloads\contacto.png" />
+                                      <entry key="outputName" value="ic_contacto" />
                                     </map>
                                   </option>
                                 </PersistentState>
